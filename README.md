@@ -2,4 +2,4 @@
 
 Etch a sketch game created with HTML, CSS and JS.
 
-[Live Demo](https://michalosman.github.io/etch-a-sketch/) :point_left:
+[Live Demo](https://mcjacksonn.github.io/Etch-A-Sketch/) :point_left:
